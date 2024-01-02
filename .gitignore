@@ -1,2 +1,4 @@
+#env file
 /backend/.env
+#dependency
 /backend/node_modules
